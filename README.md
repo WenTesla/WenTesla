@@ -9,8 +9,9 @@
 📫 个人邮箱-WenTesla@163.com  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WenTesla&layout=compact)](https://github.com/WenTesla/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WenTesla&layout=compact)](https://github-readme-stats-ten-gilt.vercel.app)
 
+  
 </div>  
 
 ![img](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/12640/ca6c4b8726de4ff58864b2ea36c7a732.PNG)
